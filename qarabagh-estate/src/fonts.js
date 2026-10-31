@@ -1,0 +1,25 @@
+// Self-hosted fonts (only the subsets and weights the page uses)
+import '@fontsource/cormorant-garamond/latin-500.css';
+import '@fontsource/cormorant-garamond/latin-ext-500.css';
+import '@fontsource/cormorant-garamond/cyrillic-500.css';
+import '@fontsource/cormorant-garamond/latin-600.css';
+import '@fontsource/cormorant-garamond/latin-ext-600.css';
+import '@fontsource/cormorant-garamond/cyrillic-600.css';
+import '@fontsource/cormorant-garamond/latin-700.css';
+import '@fontsource/cormorant-garamond/latin-ext-700.css';
+import '@fontsource/cormorant-garamond/cyrillic-700.css';
+import '@fontsource/cormorant-garamond/latin-500-italic.css';
+import '@fontsource/cormorant-garamond/latin-ext-500-italic.css';
+import '@fontsource/cormorant-garamond/cyrillic-500-italic.css';
+import '@fontsource/cormorant-garamond/latin-600-italic.css';
+import '@fontsource/cormorant-garamond/latin-ext-600-italic.css';
+import '@fontsource/cormorant-garamond/cyrillic-600-italic.css';
+import '@fontsource/manrope/latin-300.css';
+import '@fontsource/manrope/latin-ext-300.css';
+import '@fontsource/manrope/cyrillic-300.css';
+import '@fontsource/manrope/latin-400.css';
+import '@fontsource/manrope/latin-ext-400.css';
+import '@fontsource/manrope/cyrillic-400.css';
+import '@fontsource/manrope/latin-500.css';
+import '@fontsource/manrope/latin-ext-500.css';
+import '@fontsource/manrope/cyrillic-500.css';
